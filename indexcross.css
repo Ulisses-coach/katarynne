@@ -1,11 +1,11 @@
 html,
 body {
-    background-color:beige;
+    background-color:#f6f1ea;
 }
 
 .box1 {
     width: 100%;
-    background-color: beige;
+    background-color: #f6f1ea;
     text-align: center;
 
 }
@@ -30,7 +30,7 @@ body {
 
 .menu {
     width: 100%;
-    background-color: beige;
+    background-color: #f6f1ea;
     margin: 0px auto;
     text-align: center;
     padding-left: 38%;
@@ -77,7 +77,7 @@ body {
     margin: 0px auto;
     margin-left: 10px;
     padding-right: 40px;
-    background-color: beige;
+    background-color: #f6f1ea;
     padding-bottom: 90px;
     text-align: left;
     margin-top: 15px;
@@ -127,7 +127,7 @@ body {
     height: 100%;
     text-align: center;
     color: black;
-    background-color: beige;
+    background-color: #f6f1ea;
 }
 .div1 img {
     float:unset;
@@ -190,7 +190,7 @@ a {
     height: 100%;
     text-align: center;
     color: black;
-    background-color: beige;
+    background-color: #f6f1ea;
 }
 
 .imagem img {
